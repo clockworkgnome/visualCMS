@@ -1,0 +1,13 @@
+.emptyRow{
+    height: 80px;
+    color: gray;
+    display: inline-block;
+    background:#ccddcc;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 25px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
