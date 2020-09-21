@@ -1,10 +1,10 @@
 <html>
 	<head>
-		<link rel="stylesheet" href="/jujuFrameWork/libraries/css/pageBuilder.css">
-		<link rel="stylesheet" href="/jujuFrameWork/libraries/css/grid.css">
-		<link rel="stylesheet" href="/jujuFrameWork/libraries/css/gui.css">
-		<link rel="stylesheet" href="/jujuFrameWork/libraries/css/accordian.css">
-		<link rel="stylesheet" href="/jujuFrameWork/libraries/css/slideOutMenu.css">
+		<link rel="stylesheet" href="libraries/css/pageBuilder.css">
+		<link rel="stylesheet" href="libraries/css/grid.css">
+		<link rel="stylesheet" href="libraries/css/gui.css">
+		<link rel="stylesheet" href="libraries/css/accordian.css">
+		<link rel="stylesheet" href="libraries/css/slideOutMenu.css">
 	</head>
 	<body>
 		<div class="menu">
@@ -47,9 +47,9 @@
 		<div id="pageBuilder">
 
 		</div>
-		<script type="text/javascript" src="/jujuFrameWork/libraries/js/pageBuilderUtilityFunctions.js"></script>
-		<script type="text/javascript" src="/jujuFrameWork/libraries/js/pageBuilderAddRows.js"></script>
-		<script type="text/javascript" src="/jujuFrameWork/libraries/js/pageBuilderEventHandlers.js"></script>
-		<script type="text/javascript" src="/jujuFrameWork/libraries/js/pageBuilderCombineColumns.js"></script>
+		<script type="text/javascript" src="libraries/js/pageBuilderUtilityFunctions.js"></script>
+		<script type="text/javascript" src="libraries/js/pageBuilderAddRows.js"></script>
+		<script type="text/javascript" src="libraries/js/pageBuilderEventHandlers.js"></script>
+		<script type="text/javascript" src="libraries/js/pageBuilderCombineColumns.js"></script>
 	</body>
 </html>
